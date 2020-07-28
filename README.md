@@ -1,2 +1,2 @@
-# cor-sender
-python script to send emails with attachments using gmail
+# COR sender script
+A simple python script to send bulk emails with attachments.
